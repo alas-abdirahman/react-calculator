@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.nameofyourapp",
+  "appName": "CA195-CALCULATOR",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
